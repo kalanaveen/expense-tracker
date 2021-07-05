@@ -1,3 +1,11 @@
+![image](https://user-images.githubusercontent.com/34640475/124460025-7612f780-ddac-11eb-9e80-79b3dd4faf5e.png)
+
+A complex expense tracker application created by react js.For state management we used context api and for making responsive we used material ui.Also used chart js for
+making application more attractive.But main part of this application is its voice recoginition,we used speechly api to powered our expense tracker application.
+
+Whole application is developed under guidance of JavaScript Mastery.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
